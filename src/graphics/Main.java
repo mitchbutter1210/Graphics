@@ -85,7 +85,7 @@ public class Main extends JFrame implements Runnable {
 
     public Main(){
         addKeyListener(new AL());
-        setTitle("Graphics");
+        setTitle("Graphics Test");
         setSize(800, 600);
         setResizable(false);
         setLocationRelativeTo(null);
